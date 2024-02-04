@@ -1,0 +1,84 @@
+/* Write your CSS here */
+.latest-match-container {
+  display: flex;
+  flex-direction: row;
+  background-color: #1e293b;
+  justify-content: space-between;
+  width: 1000px;
+  height: 300px;
+  border-radius: 5px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+.latest-match-con1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.latest-match-con2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-top: 0px;
+}
+.img1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.latest-match-h1 {
+  color: #ffffff;
+  font-family: 'bree serif';
+  font-size: 25px;
+}
+.latest-match-p1 {
+  color: #ffffff;
+  font-family: 'bree serif';
+  margin-bottom: 0px;
+}
+.latest-match-p2 {
+  color: #ffffff;
+  font-family: 'bree serif';
+  margin-bottom: 0px;
+}
+.latest-match-img1 {
+  width: 160px;
+  height: 180px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.latest-match-h2 {
+  color: #ffffff;
+  font-family: 'bree serif';
+  font-size: 18px;
+  text-align: end;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  font-weight: 200;
+}
+.latest-match-p3 {
+  color: #ffffff;
+  font-family: 'bree serif';
+  margin-bottom: 5px;
+  text-align: end;
+  margin-top: 5px;
+}
+.latest-match-h3 {
+  color: #ffffff;
+  font-family: 'bree serif';
+  font-size: 22px;
+  text-align: end;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: 200;
+}
+.p {
+  color: #ffffff;
+  font-family: 'bree serif';
+  margin-top: 10px;
+  margin-left: 5px;
+}

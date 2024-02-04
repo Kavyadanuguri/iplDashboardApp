@@ -1,0 +1,47 @@
+/* Write your CSS here */
+
+.match-card-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: #1e293b;
+  border-radius: 10px;
+  width: 280px;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.match-card-img1 {
+  width: 100px;
+  height: 100px;
+}
+.match-card-h1 {
+  color: #ffffff;
+  font-family: 'bree serif';
+  text-align: center;
+  font-size: 22px;
+  font-weight: 200;
+}
+.match-card-p1 {
+  color: #ffffff;
+  font-family: 'bree serif';
+  text-align: center;
+  font-size: 15px;
+  font-weight: 200;
+}
+.match-card-p2 {
+  color: red;
+  font-family: 'bree serif';
+  text-align: center;
+  font-size: 15px;
+  font-weight: 200;
+}
+.match-card-p3 {
+  color: green;
+  font-family: 'bree serif';
+  text-align: center;
+  font-size: 15px;
+  font-weight: 200;
+}
